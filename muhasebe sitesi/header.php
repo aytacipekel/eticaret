@@ -21,7 +21,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="carihesapgoruntule.php">
-              <span>Cari Hesaplar</span></a>
+              <span>Cari Heewqwqeewqweqwsaplar</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="urungoruntule.php">
